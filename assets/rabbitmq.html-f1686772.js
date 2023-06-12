@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as r,R as e,t as c}from"./framework-96b046e1.js";const s={},o=e("h1",{id:"rabbitmq",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#rabbitmq","aria-hidden":"true"},"#"),c(" RabbitMQ")],-1),i=[o];function n(_,d){return a(),r("div",null,i)}const h=t(s,[["render",n],["__file","rabbitmq.html.vue"]]);export{h as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-45b2ca66","path":"/pages/mobile/mp.html","title":"小程序","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681430727000,"contributors":[{"name":"ilovesshan","email":"2665939276@qq.com","commits":1}]},"filePathRelative":"pages/mobile/mp.md"}');export{e as data};

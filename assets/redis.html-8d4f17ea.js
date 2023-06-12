@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-60000dae","path":"/pages/database/redis.html","title":"Redis","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1680964701000,"contributors":[{"name":"ilovesshan","email":"2665939276@qq.com","commits":1}]},"filePathRelative":"pages/database/redis.md"}');export{e as data};

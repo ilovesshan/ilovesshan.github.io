@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4b93e062","path":"/pages/interview-question/css.html","title":"CSS","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"pages/interview-question/css.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4849d736","path":"/pages/interview-question/pinia.html","title":"Pinia","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"pages/interview-question/pinia.md"}');export{e as data};
